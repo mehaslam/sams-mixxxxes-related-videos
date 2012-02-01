@@ -49,10 +49,7 @@ function makeArray(json) {
 
 	}
 
-	for (i = 0; i < relatedSongs.length; i++){
-
-	document.write(relatedSongs[i] + "<br />");
-
+	for (var i = 0; i < relatedSongs.length; i++){
+		console.log(relatedSongs[i]);
 	}
-
 }
