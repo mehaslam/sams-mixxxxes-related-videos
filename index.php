@@ -1,10 +1,9 @@
 <html>
-<title>yo</title>
 <head>
-<meta charset="utf-8"> 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script type="text/javascript" src="request.js"></script>
-<title>largin up jQuery</title>
+	<meta charset="utf-8"> 
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="request.js"></script>
+	<title>largin up jQuery</title>
 </head>
 
 <body>
